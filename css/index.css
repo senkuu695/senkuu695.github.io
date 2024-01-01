@@ -1,0 +1,86 @@
+
+.yuanhui.w {
+    margin-top: 10px;
+    height: 100px;
+    box-shadow: 3px 1px 3px #ccc;
+    
+  }
+  .yuanhui.w ul {
+    float: left;
+  }
+  .yuanhui ul li  {
+    float: left;
+    margin:0 33px;
+    width: 105px;
+    height: 100px;
+  }
+  .yuanhui.w img {
+    height: 100%;
+    width: 100%;
+  }
+  .ex.w {
+    margin-top: 10px;
+    height: 1400px;
+   
+  }
+  .xueyuan {
+    padding-left: 10px;
+    height: 50px;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: center;
+    background-color: aliceblue;
+  }
+  .sec {
+    height: 270px;
+  }
+  .ex.w ul li {
+    float: left;
+    position: relative;
+    margin: 20px  18px;
+    width: 200px;
+    height: 250px;
+    border-radius: 7px ;
+    background-color: #f5f5f5;
+  }
+  .ex.w ul li:hover {
+    transform: scale(1.1);
+    transition: 0.3s;
+    border: 1px solid lightblue;
+
+  }
+  .photo {
+    position: absolute;
+    margin-top: 5px;
+    left: 50px;
+    width: 100px;
+    height: 120px;
+    border: 1px solid #ccc;
+  }
+  .words {
+    position: absolute;
+    top:130px;
+    width: 186px;
+    padding: 0 7px;
+  text-align: center;
+  }
+  .xueyuan2 {
+    padding-left: 10px;
+    height: 50px;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: center;
+    background-color: aliceblue;
+}
+.xueyuan3 {
+    clear: both;
+    padding-left: 10px;
+    height: 50px;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: center;
+    background-color: aliceblue;
+}
