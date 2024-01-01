@@ -1,0 +1,1 @@
+# senkuu695.github.io
